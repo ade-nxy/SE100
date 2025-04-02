@@ -37,6 +37,4 @@ if (propertyOwned <= 1) {
   payout = 0
 };
 
-function showpayout() {
-    console.log("Your payout is ", payout);
-}
+console.log("Your payout is ", payout)
