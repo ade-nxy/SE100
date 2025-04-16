@@ -9,7 +9,7 @@ const ClassRoom = () => {
     ];
     
     return users.map(
-        (person) =>  Welcome ${person.name} from ${person.country} \n
+        (person) => Welcome ${person.name} from ${person.country} \n
     );
 }
 
